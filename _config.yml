@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Computational social scientist, studying higher education curriculum and policy."
   location         : "Washington, DC"
-  employer         : "Annenberg Institute at Brown University"
+  employer         : "Brown University"
   uri              : # URL
   email            : "annaliese_paulson@brown.edu" 
 
@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
